@@ -401,6 +401,7 @@ define_categories! {
     "lint/nursery/noVueMultipleObjectsInClass": "https://biomejs.dev/linter/rules/no-vue-multiple-objects-in-class",
     "lint/nursery/noVueMultipleSlotArgs": "https://biomejs.dev/linter/rules/no-vue-multiple-slot-args",
     "lint/nursery/noVueMutatingProps": "https://biomejs.dev/linter/rules/no-vue-mutating-props",
+    "lint/nursery/noVueNegationElse": "https://biomejs.dev/linter/rules/no-vue-negation-else",
     "lint/nursery/noVueRestrictedCallAfterAwait": "https://biomejs.dev/linter/rules/no-vue-restricted-call-after-await",
     "lint/nursery/noVueDeprecatedVBindSync": "https://biomejs.dev/linter/rules/no-vue-deprecated-v-bind-sync",
     "lint/nursery/noVueRootVIf": "https://biomejs.dev/linter/rules/no-vue-root-v-if",
